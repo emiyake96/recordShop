@@ -1,3 +1,4 @@
+
 # EasyShop E-Commerce API
 
 A Spring Boot REST API backend for an online e-commerce store. Built as a capstone project, this API supports user authentication, product browsing, shopping cart management, user profiles, and order checkout.
@@ -93,13 +94,12 @@ Product search supports query parameters: `cat`, `minPrice`, `maxPrice`, `subCat
 ## Application Screenshots
 
 ### Home / Product Listing
-![Home Page](screenshots/home.png)
+<img width="1463" height="720" alt="Screenshot 2026-06-26 at 10 17 46 AM" src="https://github.com/user-attachments/assets/056bbcf1-ec4a-405c-b116-0a9713d9a518" /><img width="1462" height="704" alt="Screenshot 2026-06-26 at 10 19 13 AM" src="https://github.com/user-attachments/assets/3d14bee6-043f-4072-9d79-261302a2b5f2" />
+
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+<img width="1462" height="704" alt="Screenshot 2026-06-26 at 10 19 13 AM" src="https://github.com/user-attachments/assets/3d14bee6-043f-4072-9d79-261302a2b5f2" />
 
-### Checkout
-![Checkout](screenshots/checkout.png)
 
 ---
 
